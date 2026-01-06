@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background-color: #f4f4f4;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  display: inline-block;
+  margin-top: 50px;
+}
+
+input, button {
+  padding: 8px;
+  width: 200px;
+}
